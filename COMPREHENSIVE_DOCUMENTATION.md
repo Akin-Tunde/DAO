@@ -1350,6 +1350,6 @@ The future of work is decentralized, transparent, and community-driven. This pla
 - **Development Time:** 4 weeks
 - **Deployment Networks:** Ethereum, Polygon, Arbitrum, Optimism compatible
 
-**Built with dedication and innovation by Manus AI**  
+
 *Empowering the future of decentralized work*
 
